@@ -1,0 +1,30 @@
+body {
+    background-image: url(./svg/background.svg);
+    height: 100vh;
+    width: 100vw;
+}
+.aav {
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    background-image: url(./ss/Group\ 5589164.png);
+    /* background-image: url(./svg/logo.svg); */
+    height: 53px;
+    width: 53px;
+    background-size: cover;
+    border: none;
+    /* background: none; */
+}
+.chemy {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+}
+.home {
+    background: none;
+    border: none;
+    color: white;
+}
+
